@@ -1,0 +1,19 @@
+img {
+    width: 100px;
+}
+
+.control {
+    cursor: pointer;
+}
+
+.fireworks {
+    display: none;
+}
+
+h1 {
+    display: none;
+}
+
+.fireworks2 {
+    display: none;
+}
